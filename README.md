@@ -1,4 +1,7 @@
 # SOSlive
+
+SOSlive - live video streaming in emergency  
+
 https://soslive.endorbit.hu/  
 
 PDF: 
