@@ -1,5 +1,7 @@
 # SOSlive
 
+(régebbi, refaktorálásra váró project)
+
 SOSlive - live video streaming in emergency  
 
 https://soslive.endorbit.hu/  
